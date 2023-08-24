@@ -1,4 +1,4 @@
-package java0821;
+package java0821.problems;
 
 import java.util.Scanner;
 
